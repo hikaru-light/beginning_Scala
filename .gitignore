@@ -1,2 +1,6 @@
 *.class
 
+# sbt specific
+.cache
+target/
+
