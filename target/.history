@@ -1,0 +1,13 @@
+u
+run
+:quit
+:q
+exit
+run
+:quit
+val u = new User("hoge", 2)
+val a = new User("hoge", 2)
+val a = new User("hoge", 3)
+val uu = new User("hoge", 3)
+:q
+val uu = new User("hoge", 3)
